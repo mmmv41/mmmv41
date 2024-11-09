@@ -1,12 +1,14 @@
 <!--
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=ebeeff&height=170&text=&animation=&fontColor=000000&fontSize=70" />
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=f7ebff&height=240&fontAlignY=40&text=minkyung's%20Github&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=f7ebff&height=240&fontAlignY=40&text=minkyung's%20Github&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=ebeeff&height=190&text=&animation=&fontColor=000000&fontSize=70" />
+</div>
+
+
     
 
 </br></br></br>
