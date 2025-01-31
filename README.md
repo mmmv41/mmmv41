@@ -9,13 +9,13 @@
 </div>
 
 
-    
+
 
 </br></br></br>
 
 <div align="center">
 
-<h2>🛠️ Tech Stacks 🛠️</h2> 
+<h2>🛠️ Tech Stacks 🛠️</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -37,7 +37,7 @@
 
 </br>
 
-  <h2>✏️ Tools ✏️</h2>
+<h2>✏️ Tools ✏️</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -52,15 +52,14 @@
 </div>
 
 </br>
+</br>
 
-
-<h2>🏅 Stats 🏅</h2> 
+<h2>🏅 Stats 🏅</h2>
 </br>
 
 | <a href="https://github.com/mmmv41/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mmmv41&rank_icon=github&title_color=a78cd9&text_color=a78cd9&hide_border=true"/></a> | <a href="https://github.com/mmmv41/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmv41&layout=compact&title_color=a78cd9&text_color=a78cd9&hide_border=true" /></a> |
-| ------------- | ------------- |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-  
 </div>
 
 
