@@ -6,7 +6,7 @@
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=ebeeff&height=190&text=&animation=&fontColor=000000&fontSize=70" /> 
-    
+
 </div>
 
 
@@ -55,6 +55,7 @@
 </br>
 
 <h2>🏅 Stats 🏅</h2>
+</br>
 </br>
 
 | <a href="https://github.com/mmmv41/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mmmv41&rank_icon=github&title_color=a78cd9&text_color=a78cd9&hide_border=true"/></a> | <a href="https://github.com/mmmv41/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmv41&layout=compact&title_color=a78cd9&text_color=a78cd9&hide_border=true" /></a> |
